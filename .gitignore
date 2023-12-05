@@ -1,0 +1,7 @@
+/.direnv
+.envrc
+/__pycache__
+invalid_numbers.txt
+numbers.txt
+PyWhatKit_DB.txt
+valid_numbers.txt
